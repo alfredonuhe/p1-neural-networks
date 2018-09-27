@@ -3,4 +3,4 @@ Implementations of a simple perceptron Adaline and a multilayer perceptron ANN u
     
    - ADALINE: [Link](Adaline)
     
-   - Multilayer Perceptron: [Link]("Multilayer Perceptron/")
+   - Multilayer Perceptron: [Link](Multilayer\ Perceptron)
